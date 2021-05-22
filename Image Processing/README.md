@@ -1,1 +1,1 @@
-# Computer-Vision
+# Image Processing - Contrast Adjustment

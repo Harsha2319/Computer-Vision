@@ -1,1 +1,1 @@
-# Computer-Vision
+# Image Classification in Modified MNIST-Fashion Dataset
