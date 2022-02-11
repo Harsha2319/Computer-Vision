@@ -1,1 +1,1 @@
-# Detect Winking using MTCNN and Cascade Classifier
+# Detect Winking using MTCNN
